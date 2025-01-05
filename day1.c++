@@ -12,11 +12,11 @@ int main(){
 
 
     double skibidi = 69.99;
-    std::cout << "Hello, world!" << std::endl;
-    std::cout << "This is a C++ program." << std::endl;
-    std::cout << "lol value: " << lol << std::endl;
-    std::cout << "xd value: " << xd << std::endl;
-    std::cout << "lmfao (xd + lol) value: " << lmfao << std::endl;
+    std::cout << "Hello, world!" << "\n";
+    std::cout << "This is a C++ program. << \n";
+    std::cout << "lol value: " << lol << "\n";
+    std::cout << "xd value: " << xd << "\n";
+    std::cout << "lmfao (xd + lol) value: " << lmfao << "\n";
 
     bool whatthefuckbullyance = true;
     bool charisuseless = true;
