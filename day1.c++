@@ -12,17 +12,17 @@ int main(){
 
 
     double skibidi = 69.99;
-    std::cout << "Hello, world!" << "\n";
-    std::cout << "This is a C++ program. << \n";
-    std::cout << "lol value: " << lol << "\n";
-    std::cout << "xd value: " << xd << "\n";
-    std::cout << "lmfao (xd + lol) value: " << lmfao << "\n";
+    std::cout << 'Hello, world!' << '\n';
+    std::cout << 'This is a C++ program. << \n';
+    std::cout << 'lol value: ' << lol << '\n';
+    std::cout << 'xd value: ' << xd << '\n';
+    std::cout << 'lmfao (xd + lol) value: ' << lmfao << '\n';
 
     bool whatthefuckbullyance = true;
     bool charisuseless = true;
     bool pythonbetter = false;
 
-    std::string ihatemylife = "why making a string var is so hard?";
+    std::string ihatemylife = 'why making a string var is so hard?';
     std::cout << ihatemylife;
     return 0;
 }
