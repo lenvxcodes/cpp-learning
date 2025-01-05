@@ -24,6 +24,22 @@ int main(){
 
     std::string ihatemylife = "why making a string var is so hard?";
     std::cout << ihatemylife;
+
+    const double PI = 3.14159;
+    double radius = 10;
+    double circumference = 2 * PI * radius;
+
+    std::cout << circumference << "cm";
+
+    // gg i calculated circle i think idk and pi cant be changed
+
+
+
+    const int width = 1;
+    const int height = 1;
+
+
+
     return 0;
 }
 
