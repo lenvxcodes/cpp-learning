@@ -5,7 +5,7 @@ int main(){
     int lol; // Variable to store an integer value
     lol = 5; // Assigning a value to lol
 
-    int xd = 6; // Variable to store another integer value (currently unused)
+    int xd = 6; // Variable to store another integer value
     int lmfao = lol + xd;
 
     char singleuselesscharvar = 'A';
